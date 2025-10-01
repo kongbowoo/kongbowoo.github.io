@@ -20,3 +20,6 @@
 | 11   | CN114826630A | [防护设备中的流量处理方法及防护设备](https://www.chaspark.com/patents/search?q=%E5%8D%8E%E4%B8%BA%20%E5%90%B4%E6%B3%A2&page=3&patentid=b38f663e-9286-4e3b-8c0e-9f0abd5d1f9b&idx=54&total=85) | 吴波               | 硬件加速技术。                           | 2021-01-22 | 2022-07-29 |
 | 12   | CN114553452A | [攻击防御方法及防护设备](https://www.chaspark.com/patents/search?q=%E5%8D%8E%E4%B8%BA%20%E5%90%B4%E6%B3%A2&page=1&patentid=5a1285d8-3177-4707-b73b-5f13356ed904&idx=14&total=85) | 吴波               | UDP水印技术。                            | 2020-11-25 | 2022-05-27 |
 | 13   | CN101789947B | [防范HTTP POST泛洪攻击的方法及防火墙](https://www.chaspark.com/patents/search?q=%E5%8D%8E%E4%B8%BA%20%E5%90%B4%E6%B3%A2&page=4&patentid=bbd6ca23-6577-4df6-942e-c2674bd9d877&idx=66&total=85) | 肖洪亮/毛世峰/吴波 | 基于307响应码防御HTTP Post泛洪攻击技术。 | 2010-02-21 | 2010-07-28 |
+
+## 海外专利
+
