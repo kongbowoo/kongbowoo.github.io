@@ -21,8 +21,4 @@
 
 ## 海外专利
 
-<style>
-.container-lg {
-  max-width: 1412px;
-}
-</style>
+
