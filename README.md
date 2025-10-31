@@ -4,7 +4,8 @@
 
 | 序号 | 公开（公告）号 | 名称                                                         | 发明人             | 简介                                                         | 申请日     | 公开日     |
 | ---- | -------------- | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ | ---------- | ---------- |
-| 14   | CN120729546A   | [攻击防御方法、装置及系统](https://www.chaspark.com/patents/search?q=CN120729546A&page=1&patentid=e4a3bafe-1b83-4f28-9cf7-387063d67404&idx=1&total=1&fromPage=patents) | 吴波/于颀          | [5G场景下移动网络的DDoS攻击防御技术](https://www.sohu.com/a/940354018_122362510)。 | 2024-03-29 | 2025-09-30 |
+| 15   | CN120729546A   | [攻击防御方法、装置及系统](https://www.chaspark.com/patents/search?q=CN120729546A&page=1&patentid=e4a3bafe-1b83-4f28-9cf7-387063d67404&idx=1&total=1&fromPage=patents) | 吴波/于颀          | [5G场景下移动网络的DDoS攻击防御技术](https://www.sohu.com/a/940354018_122362510)。 | 2024-03-29 | 2025-09-30 |
+| 14   | CN120692040A   | [网络防护方法及网络防护系统](https://www.chaspark.com/patents/search?q=CN120692040A&page=1&patentid=87eeb7d3-e23a-4fe4-8eb2-ab25bfe3e6d8&idx=1&total=1&fromPage=patents) | 吴波/邢澎涛/王海龙/张俊          | 双机逃生方案。 | 2024-03-22 | 2025-09-23 |
 | 13   | CN120415760A   | [扫描攻击检测方法及设备、防护系统](https://www.chaspark.com/patents/search?q=%E5%8D%8E%E4%B8%BA%20%E5%90%B4%E6%B3%A2&page=3&patentid=263a3a66-e9dd-4ac7-afdc-0727d0b0ee32&idx=51&total=85) | 吴波/张爱玲/于颀   | 基于蜜罐的扫描攻击防御技术。                                 | 2024-01-31 | 2025-08-01 |
 | 12   | CN119583084A   | [安全探测方法、装置及系统](https://www.chaspark.com/patents/search?q=%E5%8D%8E%E4%B8%BA%20%E5%90%B4%E6%B3%A2&page=4&patentid=26863cac-8be0-4ba5-ae42-1c3123a311fd&idx=76&total=85) | 吴波/侯承舜/李明月 | 基于终端类型进行动态探测。                                   | 2023-09-05 | 2025-03-07 |
 | 11   | CN118041565A   | [检测攻击流量的方法及相关设备](https://www.chaspark.com/patents/search?q=%E5%8D%8E%E4%B8%BA%20%E5%90%B4%E6%B3%A2&page=1&patentid=038f9d03-a3a9-4023-a977-8298854cc712&idx=20&total=85) | 吴波/章海刚/杨莉   | TLS指纹防御技术。                                            | 2023-01-19 | 2024-05-14 |
@@ -21,4 +22,4 @@
 
 ## 海外专利
 
-
+待补充。
