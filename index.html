@@ -2,19 +2,25 @@
 <html>
 <head>
   <style>
-    /* 自定义README容器宽度 */
-    .readme-wrap {
-      max-width: 1400px;
-      margin: 20px auto;
-      padding: 0 20px;
-      font-family: "Segoe UI", Roboto, sans-serif;
-    }
-  </style>
-  <!-- 引入Markdown渲染库（可选，自动解析MD语法） -->
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.css">
 </head>
 <body>
-  <div class="readme-wrap" id="readme-content">
+  <div class="markdown-body" id="readme-content">
 # 个人专利
 
 ## 国内专利
@@ -42,9 +48,7 @@
 待补充。
 
   </div>
-
   <script>
-    // 渲染Markdown内容
     const content = document.getElementById('readme-content').innerHTML;
     document.getElementById('readme-content').innerHTML = marked.parse(content);
   </script>
