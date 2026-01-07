@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* 自定义README容器宽度 */
+    .readme-wrap {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+      font-family: "Segoe UI", Roboto, sans-serif;
+    }
+  </style>
+  <!-- 引入Markdown渲染库（可选，自动解析MD语法） -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div class="readme-wrap" id="readme-content">
+    # 我的项目
+    这是README内容，宽度被限制在800px以内。
+  </div>
+
+  <script>
+    // 渲染Markdown内容
+    const content = document.getElementById('readme-content').innerHTML;
+    document.getElementById('readme-content').innerHTML = marked.parse(content);
+  </script>
+</body>
+</html>
