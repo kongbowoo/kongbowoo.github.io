@@ -22,11 +22,11 @@
 
 ## 海外专利
 
-| 序号 | 公开（公告）号 | 名称                                                         | 简介                        | 申请日     | 公开日     |
-| :--: | :------------: | ------------------------------------------------------------ | --------------------------- | ---------- | ---------- |
-|  6   | WO2022156278A1 | [Traffic processing method in protection device, and protection device](https://patents.google.com/patent/WO2022156278A1/en?oq=WO2022156278A1+) | 硬件芯片与CPU联动加速技术。 | 2021-10-18 | 2023-07-22 |
-|  5   | WO2022267490A1 | [Attack identification method, apparatus and system, and computer readable storage medium](https://patents.google.com/patent/WO2022267490A1/en?oq=WO2022267490A1) |                             |            |            |
-|  4   | WO2023060881A1 | [Method and apparatus for identifying source address of message](https://patents.google.com/patent/WO2023060881A1/en?oq=WO2023060881A1++) |                             |            |            |
-|  3   | WO2023185502A1 | Traffic reinjection method and protection system             |                             |            |            |
-|  2   | WO2023142493A1 | Attack defense method, device and system                     |                             |            |            |
-|  1   | WO2024099078A1 | Method for detecting attack traffic, and related device      |                             |            |            |
+|  No  |       ID       | Title                                                        | Application Date |
+| :--: | :------------: | ------------------------------------------------------------ | ---------------- |
+|  6   | WO2022156278A1 | [Traffic processing method in protection device, and protection device](https://patents.google.com/patent/WO2022156278A1/en?oq=WO2022156278A1+) | 2021-10-18       |
+|  5   | WO2022267490A1 | [Attack identification method, apparatus and system, and computer readable storage medium](https://patents.google.com/patent/WO2022267490A1/en?oq=WO2022267490A1) |                  |
+|  4   | WO2023060881A1 | [Method and apparatus for identifying source address of message](https://patents.google.com/patent/WO2023060881A1/en?oq=WO2023060881A1++) |                  |
+|  3   | WO2023185502A1 | Traffic reinjection method and protection system             |                  |
+|  2   | WO2023142493A1 | Attack defense method, device and system                     |                  |
+|  1   | WO2024099078A1 | Method for detecting attack traffic, and related device      |                  |
